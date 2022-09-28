@@ -58,4 +58,5 @@ namespace AppS4
                 await Navigation.PushAsync(new EmbeddedImage());
             };
         }
+    }
 }
